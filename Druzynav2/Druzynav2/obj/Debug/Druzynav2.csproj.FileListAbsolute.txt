@@ -1,0 +1,15 @@
+D:\Informatyka\Informatyka 4 sem\Programowanie i Projektowanie Graficzne\Druzynav2\Druzynav2\obj\Debug\Druzynav2.csprojAssemblyReference.cache
+D:\Informatyka\Informatyka 4 sem\Programowanie i Projektowanie Graficzne\Druzynav2\Druzynav2\obj\Debug\MainWindow.g.cs
+D:\Informatyka\Informatyka 4 sem\Programowanie i Projektowanie Graficzne\Druzynav2\Druzynav2\obj\Debug\App.g.cs
+D:\Informatyka\Informatyka 4 sem\Programowanie i Projektowanie Graficzne\Druzynav2\Druzynav2\obj\Debug\Druzynav2_MarkupCompile.cache
+D:\Informatyka\Informatyka 4 sem\Programowanie i Projektowanie Graficzne\Druzynav2\Druzynav2\obj\Debug\Druzynav2_MarkupCompile.lref
+D:\Informatyka\Informatyka 4 sem\Programowanie i Projektowanie Graficzne\Druzynav2\Druzynav2\bin\Debug\Druzynav2.exe.config
+D:\Informatyka\Informatyka 4 sem\Programowanie i Projektowanie Graficzne\Druzynav2\Druzynav2\bin\Debug\Druzynav2.exe
+D:\Informatyka\Informatyka 4 sem\Programowanie i Projektowanie Graficzne\Druzynav2\Druzynav2\bin\Debug\Druzynav2.pdb
+D:\Informatyka\Informatyka 4 sem\Programowanie i Projektowanie Graficzne\Druzynav2\Druzynav2\obj\Debug\MainWindow.baml
+D:\Informatyka\Informatyka 4 sem\Programowanie i Projektowanie Graficzne\Druzynav2\Druzynav2\obj\Debug\Druzynav2.g.resources
+D:\Informatyka\Informatyka 4 sem\Programowanie i Projektowanie Graficzne\Druzynav2\Druzynav2\obj\Debug\Druzynav2.Properties.Resources.resources
+D:\Informatyka\Informatyka 4 sem\Programowanie i Projektowanie Graficzne\Druzynav2\Druzynav2\obj\Debug\Druzynav2.csproj.GenerateResource.cache
+D:\Informatyka\Informatyka 4 sem\Programowanie i Projektowanie Graficzne\Druzynav2\Druzynav2\obj\Debug\Druzynav2.csproj.CoreCompileInputs.cache
+D:\Informatyka\Informatyka 4 sem\Programowanie i Projektowanie Graficzne\Druzynav2\Druzynav2\obj\Debug\Druzynav2.exe
+D:\Informatyka\Informatyka 4 sem\Programowanie i Projektowanie Graficzne\Druzynav2\Druzynav2\obj\Debug\Druzynav2.pdb
